@@ -1,0 +1,1 @@
+java -cp .\lib\hibernate_5.6\*;.\lib\cliche\*;.\lib\h2\*;.\trg\resources;.\trg App.MyApp

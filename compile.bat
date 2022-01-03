@@ -1,0 +1,1 @@
+javac -cp .\lib\hibernate_5.6\*;.\lib\cliche\* -d .\trg .\src\App\*.java 
